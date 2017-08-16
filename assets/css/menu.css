@@ -1,0 +1,16 @@
+.menu{
+    background: gray;
+    height: 40px;
+    
+}
+.link{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.noticia1{
+     
+    position: relative;
+    height:200px;
+    width: 300px;
+}

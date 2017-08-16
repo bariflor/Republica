@@ -1,27 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway|Roboto|Sedgwick+Ave+Display');
+@import url(menu.css);
 *{
-    outline: 1px solid black;
+     /*outline: 1px solid blue;*/
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
 }
-.titulo{
-  background: red;
+ body {
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+ }
+ header {
+    width: 100%;
+    height: 50px;
+    background: red;
+    color: white;
+    display: block;
 
 }
-.menu{
-    background: gray;
-    height: 40px;
-    
-}
-.link{
-    text-decoration: none;
-    color: white;
-    text-align: center;
-}
-.noticia1{
-     
+.contenedor {
     position: relative;
-    height:200px;
-    width: 300px;
+    left: 200px;
 }
-#ale{
-    height:200px;
-    width: 300px;
+#icono4 {
+    
+    margin: 25px;
+    padding: 15px 15px;
+    border: 2px solid;
+    background: blue;
+    border-radius: 25px;
+    width: 29px;
+    position: relative;
+    left: 200px; 
 }
