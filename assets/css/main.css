@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Raleway|Roboto|Sedgwick+Ave+Display');
 @import url(menu.css);
 *{
-     outline: 1px solid red;
-     margin: 0;
+/*     outline: 1px solid red;
+*/     margin: 0;
      padding: 0;
 }
 body {
